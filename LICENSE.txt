@@ -1,0 +1,14 @@
+Copyright (c) 2026 W. A. Knapp
+
+Terms and Conditions for Using This Software:
+
+1. GRANT OF LICENSE
+This project and all its components (code, graphics, audio, maps) are provided exclusively for personal, educational, and non-commercial purposes.
+
+2. RESTRICTIONS
+• Non-Commercial Use: This software, any part of it, or derivative works thereof may not be used for commercial purposes, sale, paid distribution, or as part of a commercial product or service.
+• Modifications: You may modify and run the software solely for your own personal needs.
+• Distribution Conditions: If you redistribute the project or any part of it, you must credit the original author and include this license in its unaltered form.
+
+3. LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE AUTHOR SHALL NOT BE HELD LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS SOFTWARE.
