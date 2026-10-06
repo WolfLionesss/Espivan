@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9A4D3B24-47BC-1375-1B87-958172DA75F6}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Espivan",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "VaREST",
+			"Enabled": false
+		}
+	]
+}

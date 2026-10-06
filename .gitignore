@@ -1,0 +1,11 @@
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.sln
+*.xcodeproj
+
+Config/DefaultEngineUserData.ini
